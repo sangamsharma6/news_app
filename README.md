@@ -1,6 +1,8 @@
 # news_app
 
-A new Flutter application.
+A News App Developed in Flutter , News are Coming from Api 
+To check this App
+clone and put your API key from Newsorg.in and then Flutter Pub get and Flutter Run
 
 ## Getting Started
 
